@@ -1,5 +1,5 @@
 ---
-  - name: Shell Examples
+  - name: Displaying Date
     hosts: all
     tasks:
 
